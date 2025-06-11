@@ -8,5 +8,5 @@ A "dumbified" GrapheneOS.
 - No browser
 - No app store
 
-##What's the Vision
-Imageine dumb phone, but better.
+## What's the Vision
+Imageine dumb phone, but better. Wise Phone + GrapheneOS + Light Phone... The future is now.
